@@ -1,0 +1,19 @@
+{
+    "name": "crila/prueba-tecnica-php-cristian-lay",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Crila\\PruebaTecnicaPhpCristianLay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cristian Lay"
+        }
+    ],
+    "minimum-stability": "alpha"
+}
